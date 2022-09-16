@@ -40,3 +40,22 @@ body {
     color: rgb(255, 255, 255);
     font-family: Verdana;
 }
+
+.select-person{
+    
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+hr{
+    width: 50vw;
+}
+
+.shoutout{
+    margin-left: 50vw;
+    margin-right: 50vw;
+}
+
+#shoutout{
+   font-style: italic;
+}
